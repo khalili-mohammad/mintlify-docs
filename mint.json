@@ -84,7 +84,7 @@
     },
     {
       "group": "Test",
-      "pages": ["test"]
+      "pages": ["Test/test"]
     }
   ],
   "footerSocials": {
