@@ -21,6 +21,10 @@
       "url": "mailto:office@cyber-legends.org"
     }
   ],
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://dashboard.mintlify.com"
+  },
   "tabs": [
     {
       "name": "API Reference",
