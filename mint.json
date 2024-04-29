@@ -35,17 +35,17 @@
     {
       "name": "About me",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://cyber-legends.org/docs"
     },
     {
       "name": "Book me",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://cyber-legends.org/community"
     },
     {
       "name": "Contact",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://cyber-legends.org/blog"
     }
   ],
   "navigation": [
@@ -88,7 +88,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
+    "x": "https://x.com/cyber-legends",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
